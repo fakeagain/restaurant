@@ -1,0 +1,15 @@
+{ 
+"prestaciones":[{
+"id": 0,
+"descripcion": "Wifi"
+},{
+"id": 1,
+"descripcion": "Aire Acondicionado"
+},{
+"id": 2,
+"descripcion": "Mesas al aire Libre"
+},{
+"id": 3,
+"descripcion": "Estacionamiento sin Cargo"
+}]
+}

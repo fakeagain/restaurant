@@ -40,7 +40,45 @@ footer {
 	font-weight: bold;
 }
 
+header nav {
+	float: right;
+	margin-top: 5%;
+	
+	
+}
 
+header nav li {
+	display: inline;
+	margin-left: 15 px;
+	
+}
 
+#servicios {
+	display: block; 
+	margin: 0px auto;
+	text-align: center;
+	
+}
+	
+
+.imagenPlato {
+	
+	display: block; 
+	margin: 0px auto;
+	
+}
+
+h2 {
+	
+	display: block; 
+	margin: 0px auto; 
+	text-align: center; 
+	width: 20%; 
+	margin-top: 10px; 
+	background-color: #000000; 
+	color: #ffffff;
+
+}
+}
 
 
